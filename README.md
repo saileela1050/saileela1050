@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**saileela1050/saileela1050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Kondeppagari Saileela
 
-Here are some ideas to get you started:
+## Backend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 **Skills**: Java, Spring Boot, MySQL  
+🔹 **Currently working at**: R Square Media  
+🔹 **Interests**: Backend development, API design, database optimization  
+🔹 **Contact**: [saileela892@gmail.com](mailto:saileela892@gmail.com)
+
+### My Projects:
+- **[Project 1](link-to-repository)** - Description of Project 1
+- **[Project 2](link-to-repository)** - Description of Project 2
+
