@@ -6,7 +6,7 @@ Hi there 👋, I'm **Kondeppagari Sai Leela**, a passionate **Backend Developer*
 I love solving complex problems, building scalable applications, and exploring new technologies in the backend space.
 
 Let's connect!  
-[LinkedIn](https://www.linkedin.com/in/kondeppagari-sai-leela-27376823b/) | [GitHub](https://github.com/saileela1050) | Email: saileela892@gmail.com
+[LinkedIn](https://linkedin.com/in/saileela-kondeppagari-27376823b) | [GitHub](https://github.com/saileela1050) | Email: saileela892@gmail.com
 
 ## 🛠️ Skills
 
