@@ -29,3 +29,20 @@
 🔒 Security:          OAuth2, JWT
 🧪 Testing:           JUnit, Mockito
 🔧 Tools & Versioning: Git, GitHub, Maven, Postman
+📂 Highlighted Projects
+🔹 E-Commerce Order Management System
+Designed modular services to manage orders, payments, and shipping using Spring Boot and REST APIs.
+
+🔹 Loan Management System
+Built a backend platform for loan application, eligibility check, and approval using PostgreSQL and secure APIs.
+
+🔹 REST APIs Collection
+Repository of reusable backend API services for various CRUD and integration use cases.
+
+🔹 Portfolio Website
+My personal website showcasing my work and skills using HTML, CSS, and responsive design principles.
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saileela1050&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="45%"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=saileela1050&theme=tokyonight" alt="GitHub Streak" width="45%"/> </p>
+📫 Connect with Me
+<p align="center"> <a href="mailto:saileela892@gmail.com"><img src="https://img.shields.io/badge/Gmail-saileela892-red?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://github.com/saileela1050"><img src="https://img.shields.io/badge/GitHub-saileela1050-black?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/LinkedIn-ComingSoon-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p>
