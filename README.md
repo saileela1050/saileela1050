@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kondeppagari Sai Leela</h1>
-<h3 align="center">🚀 Java Backend Developer | 3+ Years Experience | Based in Hyderabad, India</h3>
+<h3 align="center">🚀 Java Backend Developer | 3+ Years Experience | Based in Hyderabad | Looking for opportunities in Bangalore</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saileela1050&label=Profile%20views&color=0e75b6&style=flat" alt="saileela1050" />
@@ -23,7 +23,7 @@
 - **Languages**: Java, SQL  
 - **Frameworks**: Spring Boot, Hibernate, Spring Security, REST APIs  
 - **Frontend**: HTML, CSS, JavaScript, React  
-- **Databases**: MySQL, MongoDB, PostgreSQL  
+- **Databases**: MySQL, MongoDB 
 - **DevOps/Cloud**: AWS (ECS, Lambda), Docker, Jenkins  
 - **Security**: OAuth2, JWT  
 - **Testing**: JUnit, Mockito  
@@ -51,7 +51,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saileela1050&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=saileela1050&theme=tokyonight" alt="GitHub Streak" width="45%"/>
 </p>
 
 ---
