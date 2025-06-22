@@ -55,13 +55,12 @@
 
 ---
 
-### 📫 Connect with Me
-
 <p align="center">
   <a href="mailto:saileela892@gmail.com"><img src="https://img.shields.io/badge/Gmail-saileela892-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/saileela1050"><img src="https://img.shields.io/badge/GitHub-saileela1050-black?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-Visit-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
-🔍 *“Code is like humor. When you have to explain it, it’s bad.” — Cory House*
+<p align="center"><b>✨ Thanks for visiting my profile! ✨</b></p>
