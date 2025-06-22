@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kondeppagari Sai Leela</h1>
-<h3 align="center">🚀 Java Backend Developer | 3+ Years Experience | Based in Hyderabad | Looking for opportunities in Bangalore</h3>
+<h3 align="center">🚀 Java Backend Developer | 3+ Years Experience | Bangalore (Pref.) | Hyderabad (Base)</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saileela1050&label=Profile%20views&color=0e75b6&style=flat" alt="saileela1050" />
@@ -58,7 +58,7 @@
 <p align="center">
   <a href="mailto:saileela892@gmail.com"><img src="https://img.shields.io/badge/Gmail-saileela892-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/saileela1050"><img src="https://img.shields.io/badge/GitHub-saileela1050-black?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-Visit-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/kondeppagari-saileela/)"><img src="https://img.shields.io/badge/LinkedIn-Visit-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
