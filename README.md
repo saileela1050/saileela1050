@@ -60,7 +60,6 @@
 <p align="center">
   <a href="mailto:saileela892@gmail.com"><img src="https://img.shields.io/badge/Gmail-saileela892-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/saileela1050"><img src="https://img.shields.io/badge/GitHub-saileela1050-black?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-ComingSoon-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
