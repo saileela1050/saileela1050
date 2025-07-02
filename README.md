@@ -10,7 +10,7 @@
 ### 💡 About Me
 
 - 👩‍💻 **Java Developer** with **3+ years** of hands-on experience in backend development  
-- 💼 Currently working at **R Square Media**, Hyderabad  
+- 💼 Currently working at **Lance Soft Engineering**, Hyderabad  
 - 🌱 Exploring **Cloud Services (AWS)** and **Microservices Architecture**  
 - 💪 Passionate about building **secure, scalable, and performant** backend systems  
 - 🧠 Love solving complex problems with **clean code** and **efficient data structures**  
