@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kondeppagari Sai Leela</h1>
-<h3 align="center">🚀 Java Backend Developer | 3+ Years Experience | Bangalore (Pref.) | Hyderabad (Base)</h3>
+<h3 align="center">🚀 Software Developer | 4+ Years Experience | Bangalore </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saileela1050&label=Profile%20views&color=0e75b6&style=flat" alt="saileela1050" />
@@ -9,8 +9,8 @@
 
 ### 💡 About Me
 
-- 👩‍💻 **Java Developer** with **3+ years** of hands-on experience in backend development  
-- 💼 Currently working at **Lance Soft Engineering**, Hyderabad  
+- 👩‍💻 **Java Developer** with **4+ years** of hands-on experience in backend development  
+- 💼 Currently working at **NPST(Network People Service Technologies)**, Hyderabad  
 - 🌱 Exploring **Cloud Services (AWS)** and **Microservices Architecture**  
 - 💪 Passionate about building **secure, scalable, and performant** backend systems  
 - 🧠 Love solving complex problems with **clean code** and **efficient data structures**  
