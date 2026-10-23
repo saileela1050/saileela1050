@@ -13,7 +13,7 @@
 - 💼 Currently working at **NPST(Network People Service Technologies)**, Hyderabad  
 - 🌱 Exploring **Cloud Services (AWS)** and **Microservices Architecture**  
 - 💪 Passionate about building **secure, scalable, and performant** backend systems  
-- 🧠 Love solving complex problems with **clean code** and **efficient data structures**  
+- 🧠 Love solving complex problems with **clean code** and **efficient data structure**  
 - ✨ Immediate Joiner | Open to exciting backend opportunities
 
 ---
