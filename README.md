@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kondeppagari Sai Leela</h1>
-<h3 align="center">🚀 Software Developer | 4+ Years Experience | Bangalore </h3>
+<h1 align="center">Hi  I'm Kondeppagari Sai Leela</h1>
+<h3 align="center"> Software Developer | 4+ Years Experience | Bangalore </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saileela1050&label=Profile%20views&color=0e75b6&style=flat" alt="saileela1050" />
@@ -7,18 +7,18 @@
 
 ---
 
-### 💡 About Me
+###  About Me
 
-- 👩‍💻 **Java Developer** with **4+ years** of hands-on experience in backend development  
-- 💼 Currently working at **NPST(Network People Service Technologies)**, Hyderabad  
-- 🌱 Exploring **Cloud Services (AWS)** and **Microservices Architecture**  
-- 💪 Passionate about building **secure, scalable, and performant** backend systems  
-- 🧠 Love solving complex problems with **clean code** and **efficient data structure**  
-- ✨ Immediate Joiner | Open to exciting backend opportunities
+-  **Java Developer** with **4+ years** of hands-on experience in backend development  
+-  Currently working at **NPST(Network People Service Technologies)**, Hyderabad  
+-  Exploring **Cloud Services (AWS)** and **Microservices Architecture**  
+-  Passionate about building **secure, scalable, and performant** backend systems  
+-  Love solving complex problems with **clean code** and **efficient data structure**  
+-  Immediate Joiner | Open to exciting backend opportunities
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 - **Languages**: Java, SQL  
 - **Frameworks**: Spring Boot, Hibernate, Spring Security, REST APIs  
@@ -31,7 +31,7 @@
 
 ---
 
-### 📂 Highlighted Projects
+###  Highlighted Projects
 
 - 🔹 **[E-Commerce Order Management System](#)**  
   Designed modular services to manage orders, payments, and shipping using Spring Boot and REST APIs.
@@ -47,7 +47,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saileela1050&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="45%"/>
