@@ -7,7 +7,7 @@
 
 ---
 
-###  About Me
+##  About Me
 
 -  **Java Developer** with **4+ years** of hands-on experience in backend development  
 -  Currently working at **NPST(Network People Service Technologies)**, Hyderabad  
