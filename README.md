@@ -6,7 +6,6 @@
 </p>
 
 ----
-
 ###  About Me
 
 -  **Java Developer** with **4+ years** of hands-on experience in backend development  
